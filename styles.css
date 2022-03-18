@@ -1,5 +1,5 @@
  body, html{
-background-color: rgb(56, 49, 44);
+background-color: rgb(41, 37, 32);
  }
  
  .bg {
@@ -34,57 +34,4 @@ background-color: rgb(56, 49, 44);
     max-height: 1000px;
 
   } 
-
-  /* height: 100%;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover; */
-/* 
-   @media only screen and (max-width: 319px){
-
-    .bg {
-
-        height: 100%;
-
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: contain;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-      }
     
-      .bg2 {
-    
-      
-        height: 100%;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-      }
-    
-      .bg3 {
-    
-      
-        height: 100%;
-
-    
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: contain;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-      } 
-  
-   
-    
-  }   */
